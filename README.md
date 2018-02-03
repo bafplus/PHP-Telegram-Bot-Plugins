@@ -20,5 +20,5 @@ These are user created plugins.
 * [**Time**](https://github.com/bafplus/PHP-Telegram-Bot-Plugins/tree/master/CustomCommands/time):
   Alternative to the example date command, this command only shows the called city and the local time.
 * [**unlockPTB**](https://github.com/Hitmare/unlockPTB):
-  This is unlock Class for the PHP Telegram Bot Libary to lock an unlock the Bot in Private and Group Channels.
+  This is unlock Class for the PHP Telegram Bot Libary to lock and unlock the Bot in Private and Group Channels.
 

@@ -11,7 +11,11 @@ It is the authors responsibilty to keep the plugin working and available.
 
 # Standard Plugins
 
-These are user-centric plugins.
+These are standard plugins that are extended or a variation of the original.
+
+# User Plugins
+
+These are user created plugins.
 
 * [**Time**](https://github.com/bafplus/PHP-Telegram-Bot-Plugins/tree/master/CustomCommands/time):
   Alternative to the example date command, this command only shows the called city and the local time.

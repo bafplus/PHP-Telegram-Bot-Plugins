@@ -1,4 +1,5 @@
 # PHP-Telegram-Bot-Plugins
+These plugins are for the [PHP-Telegram-Bot](https://github.com/php-telegram-bot).
 This is a list of known general command plugins made by our botusers/admins. These plugins are kept in this repo or are linked to a dedicated repo. It is manditory that each plugin has a readme that includes:
 * A discription about what this plugin does
 * If possible a example of use
@@ -13,5 +14,5 @@ It is the authors responsibilty to keep the plugin working and available.
 These are user-centric plugins.
 
 * [**Time**](https://github.com/bafplus/PHP-Telegram-Bot-Plugins/tree/master/CustomCommands/time):
-  Alternative to the example time command, this command only shows the called city and the local time.
+  Alternative to the example date command, this command only shows the called city and the local time.
 

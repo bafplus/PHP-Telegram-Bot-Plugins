@@ -9,10 +9,6 @@ This is a list of known general command plugins made by our botusers/admins. The
 Without this readme or incomplete readme the plugin will not be added to this list.
 It is the authors responsibilty to keep the plugin working and available.
 
-# Standard Plugins
-
-These are standard plugins that are extended or a variation of the original.
-
 # User Plugins
 
 These are user created plugins.
@@ -21,4 +17,8 @@ These are user created plugins.
   Alternative to the example date command, this command only shows the called city and the local time.
 * [**unlockPTB**](https://github.com/Hitmare/unlockPTB):
   This is unlock Class for the PHP Telegram Bot Libary to lock and unlock the Bot in Private and Group Channels.
+
+# Standard Plugins
+
+These are standard plugins that are extended or a variation of the original. Place these in your Commands folder to override the core-command.
 
